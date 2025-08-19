@@ -1,0 +1,56 @@
+[
+  {
+    "CaseId": 5,
+    "CreatedOn": "2025-08-19 11:37",
+    "Description": "",
+    "EditedOn": "2025-08-19 11:55",
+    "EndingYear": "2023",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.8.7",
+    "Name": "AFOLU-Base",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-1",
+    "PropertiesGroup": "AFOLU-properties",
+    "PropertiesGroupId": 15,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 13,
+    "ScenarioGroup": "AllScenario",
+    "ScenarioGroupId": 12,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "idagræstedjensen",
+    "ModelFramework": "Times"
+  }
+]
