@@ -1,6 +1,6 @@
 [
   {
-    "SavedGroupId": 226,
+    "SavedGroupId": 236,
     "GroupName": "AFOLU-base",
     "GroupType": "Scenario",
     "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 0, \"ShortName\": \"B\"}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"SS\"}, {\"Name\": \"AreaUse\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"RS\"}, {\"Name\": \"GHGtax\", \"Checked\": false, \"RowOrder\": 3, \"ShortName\": \"RS\"}]",
@@ -9,7 +9,7 @@
     "UserName": "idagræstedjensen"
   },
   {
-    "SavedGroupId": 227,
+    "SavedGroupId": 237,
     "GroupName": "AFOLU-GHGtax",
     "GroupType": "Scenario",
     "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 0, \"ShortName\": \"B\"}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"SS\"}, {\"Name\": \"AreaUse\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"RS\"}, {\"Name\": \"GHGtax\", \"Checked\": true, \"RowOrder\": 4, \"ShortName\": \"RS\"}]",
@@ -18,7 +18,7 @@
     "UserName": "idagræstedjensen"
   },
   {
-    "SavedGroupId": 228,
+    "SavedGroupId": 238,
     "GroupName": "AFOLU-properties",
     "GroupType": "Properties",
     "Settings": "{\"OptCa\": null, \"OptCr\": null, \"Damage\": 2, \"LimCol\": 0, \"LimRow\": 0, \"Oblong\": true, \"ResLim\": 50000, \"Retire\": false, \"IterLim\": 999999, \"SolPrint\": false, \"Uncertainty\": 0, \"RunInStepsOf\": 0, \"ClimateModule\": false, \"LinearVarCost\": true, \"LevelizedCosts\": 3, \"GamsOptionBratio\": \"\", \"DiscreteInvestment\": false, \"DoExtendedQaChecks\": false, \"GeneralEquilibrium\": 3, \"MidYearDiscounting\": true, \"ObjFunctionVariant\": 0, \"ShiftDiscountingBy\": 0, \"Co2CalibrationAtBoh\": false, \"UseSlackVariablesInUc\": false, \"DiscreteUnitCommitment\": false, \"EndoGenousTechLearning\": false, \"WriteBPriceforElastDem\": false, \"SaveSolutionInformation\": false, \"TsForFlowReportingTypes\": 0, \"UseLastRunAsStartingPoint\": false, \"ActivateSensitivityAnalysis\": false}",
@@ -27,30 +27,30 @@
     "UserName": "idagræstedjensen"
   },
   {
-    "SavedGroupId": 224,
+    "SavedGroupId": 234,
     "GroupName": "AllRegion",
     "GroupType": "Region",
     "Settings": "[\"REG1\"]",
-    "CreatedOn": "2025-09-23 13:07",
-    "DisplayCreatedOn": "2025-09-23 13:07",
+    "CreatedOn": "2025-10-03 11:55",
+    "DisplayCreatedOn": "2025-10-03 11:55",
     "UserName": "idagræstedjensen"
   },
   {
-    "SavedGroupId": 223,
+    "SavedGroupId": 233,
     "GroupName": "AllScenario",
     "GroupType": "Scenario",
-    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"B\", \"FileStatus\": \"Consistent\", \"RecordCount\": 885}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 154}, {\"Name\": \"AreaUse\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 119}, {\"Name\": \"GHGtax\", \"Checked\": true, \"RowOrder\": 4, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 3}]",
-    "CreatedOn": "2025-09-23 13:07",
-    "DisplayCreatedOn": "2025-09-23 13:07",
+    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"B\", \"FileStatus\": \"Consistent\", \"RecordCount\": 886}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 154}, {\"Name\": \"AreaUse\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 119}, {\"Name\": \"GHGtax\", \"Checked\": true, \"RowOrder\": 4, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 3}]",
+    "CreatedOn": "2025-10-03 11:55",
+    "DisplayCreatedOn": "2025-10-03 11:55",
     "UserName": "idagræstedjensen"
   },
   {
-    "SavedGroupId": 225,
+    "SavedGroupId": 235,
     "GroupName": "DefaultProperties",
     "GroupType": "Properties",
     "Settings": "{\"OptCa\": null, \"OptCr\": null, \"Damage\": 2, \"LimCol\": 0, \"LimRow\": 0, \"Oblong\": true, \"ResLim\": 50000, \"Retire\": false, \"IterLim\": 999999, \"SolPrint\": false, \"Uncertainty\": 0, \"RunInStepsOf\": 0, \"ClimateModule\": false, \"LinearVarCost\": true, \"LevelizedCosts\": 3, \"GamsOptionBratio\": \"\", \"DiscreteInvestment\": false, \"DoExtendedQaChecks\": false, \"GeneralEquilibrium\": 3, \"MidYearDiscounting\": true, \"ObjFunctionVariant\": 0, \"ShiftDiscountingBy\": 0, \"Co2CalibrationAtBoh\": false, \"UseSlackVariablesInUc\": false, \"DiscreteUnitCommitment\": false, \"EndoGenousTechLearning\": false, \"WriteBPriceforElastDem\": false, \"SaveSolutionInformation\": false, \"TsForFlowReportingTypes\": 0, \"UseLastRunAsStartingPoint\": false, \"ActivateSensitivityAnalysis\": false}",
-    "CreatedOn": "2025-09-23 13:07",
-    "DisplayCreatedOn": "2025-09-23 13:07",
+    "CreatedOn": "2025-10-03 11:55",
+    "DisplayCreatedOn": "2025-10-03 11:55",
     "UserName": "idagræstedjensen"
   }
 ]
